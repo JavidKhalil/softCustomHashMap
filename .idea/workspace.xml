@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0024156-606c-4aa7-baeb-9e8c1be732ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WiOS6xKpZdNfFnmnnbEl9TBqDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomHashMapTest.GetEntryFromHashMapTest">
+    <configuration name="CustomHashMapTest.GetEntryFromHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customHashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entity" />
+      <option name="MAIN_CLASS_NAME" value="entity.CustomHashMapTest" />
+      <option name="METHOD_NAME" value="GetEntryFromHashMapTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomHashMapTest.PutEntryToHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customHashMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entity" />
+      <option name="MAIN_CLASS_NAME" value="entity.CustomHashMapTest" />
+      <option name="METHOD_NAME" value="PutEntryToHashMapTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomHashMapTest.GetEntryFromHashMapTest" />
+        <item itemvalue="JUnit.CustomHashMapTest.PutEntryToHashMapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0024156-606c-4aa7-baeb-9e8c1be732ed" name="Default Changelist" comment="" />
+      <created>1579628945576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579628945576</updated>
+      <workItem from="1579628949329" duration="5317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1579629195650">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579629195650" />
+    <state x="748" y="414" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579630715554">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="748" y="414" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579630715554" />
+    <state width="1804" height="267" key="GridCell.Tab.0.bottom" timestamp="1579633066965">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="267" key="GridCell.Tab.0.bottom/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579633066965" />
+    <state width="1804" height="267" key="GridCell.Tab.0.center" timestamp="1579633066965">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="267" key="GridCell.Tab.0.center/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579633066965" />
+    <state width="1804" height="267" key="GridCell.Tab.0.left" timestamp="1579633066965">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="267" key="GridCell.Tab.0.left/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579633066965" />
+    <state width="1804" height="267" key="GridCell.Tab.0.right" timestamp="1579633066965">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="267" key="GridCell.Tab.0.right/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579633066965" />
+    <state width="1804" height="330" key="GridCell.Tab.1.bottom" timestamp="1579631612287">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="330" key="GridCell.Tab.1.bottom/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579631612287" />
+    <state width="1804" height="330" key="GridCell.Tab.1.center" timestamp="1579631612287">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="330" key="GridCell.Tab.1.center/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579631612287" />
+    <state width="1804" height="330" key="GridCell.Tab.1.left" timestamp="1579631612287">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="330" key="GridCell.Tab.1.left/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579631612287" />
+    <state width="1804" height="330" key="GridCell.Tab.1.right" timestamp="1579631612287">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="330" key="GridCell.Tab.1.right/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579631612287" />
+  </component>
+</project>
